@@ -14,11 +14,11 @@ void file_i_o() {
 int main(int argc, char** argv) {   
   file_i_o();
   //write your code here Als
-  int x = 1;
- 	for(int i=2; i<=5; i++) {
- 		x^=i;
- 		cout<<bitset<3>(x)<<endl;
- 	}
+  // int x = 1;
+ 	// for(int i=2; i<=5; i++) {
+ 	// 	x^=i;
+ 	// 	cout<<bitset<3>(x)<<endl;
+ 	// }
  	
   return 0;
 }
