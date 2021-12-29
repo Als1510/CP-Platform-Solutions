@@ -14,13 +14,19 @@ void file_i_o() {
 int main(int argc, char** argv) {   
   file_i_o();
   //write your code here Als
-  long long n;
-  cin>>n;
-  long long sum = n*(n+1)/2;
-  long long input;
-  while(cin>>input){
-    sum-=input;
+  string str;
+  cin>>str;
+  int maxcount = 1, count = 1;
+  for(auto i=1; i<str.length(); i++) {
+    if(str[i] == str[i-1]) {
+      count++;
+    } else {
+      count = 1;
+    }
+    if(count>maxcount) 
+        maxcount = count;
   }
-  cout<<sum;
+
+  cout<<maxcount;
   return 0;
 }
