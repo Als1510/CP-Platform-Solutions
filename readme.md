@@ -1,11 +1,13 @@
+Solution accepted by different platform problems, written in C++ by Als1510. As of last commit, the following number of solution have been completed
 
-# CSES Solutions
+<br>
 
-Solution accepted by [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Als1510. As of last commit, the following number of solution have been completed
+# [CSES Problem Set](https://cses.fi/problemset/)
+
 
 |  Problem Type         | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     02/19     |
+| Introductory Problems |     03/19     |
 | Sorting and Searching |     0/35     |
 | Dynamic Programming   |     0/19     |
 | Graph Algorithms      |     0/36     |
@@ -16,11 +18,20 @@ Solution accepted by [CSES Problem Set](https://cses.fi/problemset/), written in
 | Geometry              |     0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **2/300**  |
+| **Total**             |  **3/300**  |
 
+</br>
 
-# Table of Contents
+## Table of Contents
 
-## Introductory Problems
-1. [Weird Algorithm](/Introductory%20Problems/WeirdAlgorithm.cpp)
-2. [Missing Number](/Introductory%20Problems/MissingNumber.cpp)
+### Introductory Problems
+
+1. [Weird Algorithm](/CSES/Introductory%20Problems/WeirdAlgorithm.cpp)
+2. [Missing Number](/CSES/Introductory%20Problems/MissingNumber.cpp)
+3. [Repetitions](/CSES/Introductory%20Problems/Repetitions.cpp)
+
+</br>
+</br>
+
+# [Atcoder DP Contest](https://atcoder.jp/contests/dp/tasks)
+1. [Frog-1](/Atcoder/Frog-1.cpp)

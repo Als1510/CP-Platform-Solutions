@@ -6,8 +6,8 @@ void file_i_o() {
   cin.tie(NULL);
   cout.tie(NULL);
   #ifndef ONLINE_JUDGE
-    freopen("../Input.txt","r",stdin);
-    freopen("../Output.txt","w",stdout);
+    freopen("Input.txt","r",stdin);
+    freopen("Output.txt","w",stdout);
   #endif
 }
 
